@@ -17,20 +17,11 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
-```
-public class App {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
-    }
-}
-
-```
-
 ### 백준 제출용
 ```
 public class Main {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+
     }
 }
 
